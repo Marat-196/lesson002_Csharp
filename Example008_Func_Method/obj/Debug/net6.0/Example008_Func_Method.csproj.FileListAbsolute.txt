@@ -1,0 +1,15 @@
+C:\Users\mjumataev\Documents\Личное\GeekBrains\3 Введение в программирование C#\Lesson 02\Examples\Example008_Func_Method\obj\Debug\net6.0\Example008_Func_Method.csproj.AssemblyReference.cache
+C:\Users\mjumataev\Documents\Личное\GeekBrains\3 Введение в программирование C#\Lesson 02\Examples\Example008_Func_Method\obj\Debug\net6.0\Example008_Func_Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mjumataev\Documents\Личное\GeekBrains\3 Введение в программирование C#\Lesson 02\Examples\Example008_Func_Method\obj\Debug\net6.0\Example008_Func_Method.AssemblyInfoInputs.cache
+C:\Users\mjumataev\Documents\Личное\GeekBrains\3 Введение в программирование C#\Lesson 02\Examples\Example008_Func_Method\obj\Debug\net6.0\Example008_Func_Method.AssemblyInfo.cs
+C:\Users\mjumataev\Documents\Личное\GeekBrains\3 Введение в программирование C#\Lesson 02\Examples\Example008_Func_Method\obj\Debug\net6.0\Example008_Func_Method.csproj.CoreCompileInputs.cache
+C:\Users\mjumataev\Documents\Личное\GeekBrains\3 Введение в программирование C#\Lesson 02\Examples\Example008_Func_Method\bin\Debug\net6.0\Example008_Func_Method.exe
+C:\Users\mjumataev\Documents\Личное\GeekBrains\3 Введение в программирование C#\Lesson 02\Examples\Example008_Func_Method\bin\Debug\net6.0\Example008_Func_Method.deps.json
+C:\Users\mjumataev\Documents\Личное\GeekBrains\3 Введение в программирование C#\Lesson 02\Examples\Example008_Func_Method\bin\Debug\net6.0\Example008_Func_Method.runtimeconfig.json
+C:\Users\mjumataev\Documents\Личное\GeekBrains\3 Введение в программирование C#\Lesson 02\Examples\Example008_Func_Method\bin\Debug\net6.0\Example008_Func_Method.dll
+C:\Users\mjumataev\Documents\Личное\GeekBrains\3 Введение в программирование C#\Lesson 02\Examples\Example008_Func_Method\bin\Debug\net6.0\Example008_Func_Method.pdb
+C:\Users\mjumataev\Documents\Личное\GeekBrains\3 Введение в программирование C#\Lesson 02\Examples\Example008_Func_Method\obj\Debug\net6.0\Example008_Func_Method.dll
+C:\Users\mjumataev\Documents\Личное\GeekBrains\3 Введение в программирование C#\Lesson 02\Examples\Example008_Func_Method\obj\Debug\net6.0\refint\Example008_Func_Method.dll
+C:\Users\mjumataev\Documents\Личное\GeekBrains\3 Введение в программирование C#\Lesson 02\Examples\Example008_Func_Method\obj\Debug\net6.0\Example008_Func_Method.pdb
+C:\Users\mjumataev\Documents\Личное\GeekBrains\3 Введение в программирование C#\Lesson 02\Examples\Example008_Func_Method\obj\Debug\net6.0\Example008_Func_Method.genruntimeconfig.cache
+C:\Users\mjumataev\Documents\Личное\GeekBrains\3 Введение в программирование C#\Lesson 02\Examples\Example008_Func_Method\obj\Debug\net6.0\ref\Example008_Func_Method.dll
